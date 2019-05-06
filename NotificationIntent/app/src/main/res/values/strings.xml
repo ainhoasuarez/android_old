@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">NotificationIntent</string>
+    <string name="btn_create">Crear notificación</string>
+    <string name="btn_cancel">Eliminar notificación</string>
+</resources>
